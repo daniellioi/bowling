@@ -10,3 +10,5 @@ to run test
 to run game
 `./bowl`
 hit space to roll or q to quit
+
+Note:  built and run on os x but it should work on any/most unix/linux environments.
